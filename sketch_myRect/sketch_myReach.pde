@@ -61,7 +61,7 @@ y++;
 
 */
 
-// 3. Version where I used for loop instead of while loops, lines or points to make an rect
+// 4. Version where I used "for loop" instead of while loops, lines or points to make an rect
 for  (int i = 0; i <= rw; i++) {
 point(rx+i, ry);        //upper line
 point(rx+i, ry+rh);     // bottom line
